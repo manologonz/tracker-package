@@ -1,0 +1,47 @@
+export const USER_LOADING = "USER_LOADING";
+
+export const USER_LOADED = "USER_LOADED";
+
+export const AUTH_ERROR = "AUTH_ERROR";
+
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+
+export const LOGIN_FAIL = "LOGIN_FAIL";
+
+export const GET_ERRORS = "GET_ERRORS";
+
+export const CREATE_MESSAGE = "CREATE_MESSAGES";
+
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+
+export const SIGNUP_SUCCESS = "SIGNUP_SUCCESS";
+
+export const SIGNUP_FAIL = "SIGNUP_FAIL";
+
+export const GET_PACKAGS = "GET_PACKAGS";
+
+export const ADD_PACKAG = "ADD_PACKAG";
+
+export const DELETE_PACKAG = "DELETE_PAKCAG";
+
+export const GET_CATALOGUES = "GET_CATALOGUES";
+
+export const ADD_CATALOGUE = "ADD_CATALOGUE";
+
+export const DELETE_CATALOGUE = "DELETE_CATALOGUE";
+
+export const UPDATE_SUCCESS = "UPDATE_SUCCESS";
+
+export const DELETE_ACCOUNT = "DELETE_ACCOUNT";
+
+export const GET_REPORT_PACKAGES = "GET_REPORT_PACKAGES";
+
+export const ADD_CLIENT = "ADD_CLIENT";
+
+export const DELETE_PACKAG_ADMIN = "DELETE_PACKAG_ADMIN";
+
+export const SET_STORAGE = "SET_STORAGE";
+
+export const SET_TRANSIT = "SET_TRANSIT";
+
+export const SET_DELIVERED = "SET_DELIVERED";
